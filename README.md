@@ -1,5 +1,8 @@
 # VanillaJS로 Todo-list 만들기
 
+📌직접 구경하러 가기 !!<br>
+https://jangayeon.github.io/To_Do_Chrome/
+
 ## 1. main block
 |||
 |:--:|:--:|
